@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Hello.a153fd4e-a452-11ee-ab8f-e643d6f3e2af.jpg</filename>
+	<path>/Users/peterchoi/Desktop/Projects/SignLanguage/Tensorflow/workspace/images/collectedimages/Hello.a153fd4e-a452-11ee-ab8f-e643d6f3e2af.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>205</ymin>
+			<xmax>378</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>
